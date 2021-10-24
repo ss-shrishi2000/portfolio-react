@@ -7,8 +7,11 @@ The repository contains a Software Developer Portfolio Template built with React
  -  Built With Next. js, with the capacity to render the JavaScript code on the server and send simple indexable HTML to the user.
  
   ![Alt Text](https://github.com/ss-shrishi2000/portfolio-react/blob/main/pc-1.png)
+  <br />
   ![Alt Text](https://github.com/ss-shrishi2000/portfolio-react/blob/main/pc-2.png)
+  <br />
   ![Alt Text](https://github.com/ss-shrishi2000/portfolio-react/blob/main/pc-3.png)
+  <br />
   ![Alt Text](https://github.com/ss-shrishi2000/portfolio-react/blob/main/pc-4.png)
 
 Live Website Deployed Over Here:- https://romantic-archimedes-744b27.netlify.app/
